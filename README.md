@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshot
+![image](https://github.com/Tallat-Amin/Punk_API/assets/106815803/3a21c981-85ee-46c1-b0f9-64da64c4f24c)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
